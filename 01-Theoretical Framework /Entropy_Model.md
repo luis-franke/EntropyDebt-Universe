@@ -18,7 +18,7 @@ date: 2025-06-05
 Eₚ（Entropy Pressure）→ S（Structure）→ Bₑ（Behavior）
 ```
 
-### 1. Eₚ：熵压（Entropy Pressure）
+### 1. Eₚ:熵压（Entropy Pressure）
 
 代表任一系统（宇宙、社会、神经网络）中的信息压缩与秩序需求之间的张力。
 
