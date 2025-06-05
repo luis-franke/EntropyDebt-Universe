@@ -1,10 +1,10 @@
 ---
 
 title: "EntropyDebt 三段式模型 v0.1"
-author: Luis
-category: Entropy Cosmology / Theoretical Framework
-date: 2025-06-05
-----------------
+author: "Luis"
+category: "Entropy Cosmology / Theoretical Framework"
+date: "2025-06-05"
+---
 
 # 概览
 
